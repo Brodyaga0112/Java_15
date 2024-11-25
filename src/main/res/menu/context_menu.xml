@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_change_text_1"
+        android:title="TXL" />
+    <item
+        android:id="@+id/action_change_text_2"
+        android:title="VX" />
+    <item
+        android:id="@+id/action_change_text_3"
+        android:title="RX" />
+</menu>
